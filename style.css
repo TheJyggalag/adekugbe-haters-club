@@ -1,0 +1,54 @@
+h2 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 40px;
+    color: #FDE66D;
+}
+h1 {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 60px;
+    color: #2B2B2B;
+}
+h3 {
+    font-family: 'Libre Franklin', sans-serif;
+    color:#2B2B2B;
+}
+p { 
+    font-family: 'Libre Franklin', sans-serif;
+    color: #757575;
+    font-size: 14px;
+}
+.main {
+    display: block;
+    width: 500px;
+}
+body {
+    background-color: #f1f1f1;
+}
+.essekadekugbe {
+    height: 200px;
+    width: 300px;
+    border-radius: 50px;
+    float: left;
+}
+.bitirdi {
+    color:#FF3A3A
+}
+.main-container {
+    display: flex;
+}
+.left-container {
+    float:left;
+}
+.right-container {
+    float:right;
+}
+.maladekugbe {
+    height: 200px;
+    width: 300px;
+    border-radius: 50px;
+    float: right;
+}
+.footer-text {
+    text-align: right;
+    color:#FF3A3A
+}
